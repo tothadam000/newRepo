@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526843956 source:c:\users\Ádibádi\documents\git\newrepo\histogram\histogram\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<sstream>
+
