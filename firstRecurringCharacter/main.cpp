@@ -20,9 +20,6 @@ int main()
 }
 
 char recurringCharacter(string str){
-   /* char theRecurringCharacter = 0;
-    int frequencyOfCharacters1 = 0;
-    int frequencyOfCharacters2 = 0;*/
     int i, max, index;
     int array1[255] = {0};
 
